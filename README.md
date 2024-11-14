@@ -41,7 +41,7 @@ From the above characteristic table, we can directly write the next state equati
 ```
 NAME:SRISHANTH J
 REG NO:212223240160
-
+```
 ```
 
 module e9(t, clk, rst, q);
@@ -63,12 +63,12 @@ endmodule
 
 **RTL LOGIC FOR FLIPFLOPS**
 
-<img width="562" alt="image" src="https://github.com/user-attachments/assets/fb69ae79-b0f8-431b-bdca-68c3570fe147">
+![Screenshot 2024-11-14 113550](https://github.com/user-attachments/assets/9ecee146-4b33-4b8d-9f32-b1d6557792f8)
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-<img width="563" alt="image" src="https://github.com/user-attachments/assets/e9a31ba5-7ef9-4bfd-ad7b-2a393d4f77eb">
+![Screenshot 2024-11-14 113611](https://github.com/user-attachments/assets/22c39382-3aac-4ed0-9e93-9d2a411ea34e)
 
 
 **RESULTS**
